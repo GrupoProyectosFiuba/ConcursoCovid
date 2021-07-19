@@ -87,7 +87,6 @@ curso de git
 
 https://www.youtube.com/watch?v=MVtYCB-tGlU
 
-CentroFiuba01
 
 manual mediciana AI
 
