@@ -3,6 +3,7 @@ Proyecto base = Identify and localize COVID-19 abnormalities on chest radiograph
 
 
 TAREAS GENERALES
+
 0.0   Admin1: Armado grupos de Trabajo 0 Whatsapp- 1 Kaggle 2- Github 3- Discord.
 
 1.0 - Conceptos Generales de Kaggle
